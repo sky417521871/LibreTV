@@ -16,16 +16,14 @@
       ]
     }
   ],
-{
-  "sites": [
     {
       "key": "如意资源",
       "name": "如意资源",
       "type": 0,
       "api": "https://cj.rycjapi.com/api.php/provide/vod/",
-      "searchable": 2,
-      "quickSearch": 2,
-      "filterable": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "categories": [
         "电源",
         "连续剧",
@@ -288,3 +286,4 @@
     "cms.qdwght.com"
   ]
 }
+
