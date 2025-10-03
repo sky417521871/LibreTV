@@ -1,5 +1,14 @@
 {
   "sites": [
+        {
+      "key": "diduan_spider",
+      "name": "📙低端影视(SP)",
+      "type": 3,
+      "api": "csp_DiDuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "如意资源",
       "name": "如意资源",
@@ -23,7 +32,7 @@
         {
           "name": "直播源",
           "urls": [
-            "about:blank"
+            "http://tang.skyhuang.icu:35455/tv.m3u"
           ]
         }
       ]
@@ -270,3 +279,4 @@
     "cms.qdwght.com"
   ]
 }
+
