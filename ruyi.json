@@ -1,14 +1,5 @@
 {
   "sites": [
-        {
-      "key": "diduan_spider",
-      "name": "📙低端影视(SP)",
-      "type": 3,
-      "api": "csp_ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {
       "key": "如意资源",
       "name": "如意资源",
@@ -279,5 +270,6 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
