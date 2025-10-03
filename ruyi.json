@@ -4,12 +4,12 @@
       "key": "如意资源",
       "name": "如意资源",
       "type": 0,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "电源",
+        "电影",
         "连续剧",
         "综艺",
         "动漫"
@@ -269,5 +269,4 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
-
 }
