@@ -1,7 +1,7 @@
 {
   "sites": [
     {
-      "key": "黑木耳资源",
+      "key": "Kvein",
       "name": "黑木耳资源",
       "type": 0,
       "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "key": "如意资源",
+      "key": "Kvein",
       "name": "如意资源",
       "type": 0,
       "api": "https://cj.rycjapi.com/api.php/provide/vod/",
