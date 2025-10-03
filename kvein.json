@@ -2,21 +2,6 @@
   "sites": [
     {
       "key": "Kvein",
-      "name": "黑木耳资源",
-      "type": 0,
-      "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-      "key": "Kvein",
       "name": "如意资源",
       "type": 0,
       "api": "https://cj.rycjapi.com/api.php/provide/vod/",
