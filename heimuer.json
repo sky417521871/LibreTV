@@ -4,7 +4,7 @@
       "key": "黑木耳资源",
       "name": "黑木耳资源",
       "type": 0,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/at/xml/",
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -269,4 +269,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
+
 }
