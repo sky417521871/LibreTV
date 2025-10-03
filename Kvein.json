@@ -1,21 +1,6 @@
 {
   "sites": [
     {
-      "key": "黑木耳资源",
-      "name": "黑木耳资源",
-      "type": 0,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫"
-      ]  
-    },
-    {
       "key": "如意资源",
       "name": "如意资源",
       "type": 0,
